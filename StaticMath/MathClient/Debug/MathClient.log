@@ -1,0 +1,29 @@
+﻿生成启动时间为 2021/12/10 14:09:42。
+     1>项目“C:\学习\软件工程\数据结构\StaticMath\MathClient\MathClient.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MathClient.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\学习\软件工程\数据结构\StaticMath\MathLibrary" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MathClient.cpp
+         MathClient.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MathClient.exe.embed.manifest.res" Debug\MathClient_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\学习\软件工程\数据结构\StaticMath\Debug\MathClient.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MathClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\学习\软件工程\数据结构\StaticMath\Debug\MathClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\学习\软件工程\数据结构\StaticMath\Debug\MathClient.lib" /MACHINE:X86 Debug\MathClient.exe.embed.manifest.res
+         Debug\MathClient.obj
+         "C:\学习\软件工程\数据结构\StaticMath\Debug\MathLibrary.lib"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MathClient.exe.embed.manifest" /manifest Debug\MathClient.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MathClient.exe.embed.manifest.res" Debug\MathClient_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\学习\软件工程\数据结构\StaticMath\Debug\MathClient.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MathClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\学习\软件工程\数据结构\StaticMath\Debug\MathClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\学习\软件工程\数据结构\StaticMath\Debug\MathClient.lib" /MACHINE:X86 Debug\MathClient.exe.embed.manifest.res
+         Debug\MathClient.obj
+         "C:\学习\软件工程\数据结构\StaticMath\Debug\MathLibrary.lib"
+         MathClient.vcxproj -> C:\学习\软件工程\数据结构\StaticMath\Debug\MathClient.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MathClient.unsuccessfulbuild”。
+         正在对“Debug\MathClient.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\学习\软件工程\数据结构\StaticMath\MathClient\MathClient.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.76

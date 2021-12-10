@@ -1,0 +1,20 @@
+﻿生成启动时间为 2021/12/10 14:01:49。
+     1>项目“C:\学习\软件工程\数据结构\StaticMath\MathLibrary\MathLibrary.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\学习\软件工程\数据结构\StaticMath\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\MathLibrary.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MathLibrary.cpp
+         MathLibrary.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\学习\软件工程\数据结构\StaticMath\Debug\MathLibrary.lib" /NOLOGO Debug\MathLibrary.obj
+         MathLibrary.vcxproj -> C:\学习\软件工程\数据结构\StaticMath\Debug\MathLibrary.lib
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MathLibrary.unsuccessfulbuild”。
+         正在对“Debug\MathLibrary.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\学习\软件工程\数据结构\StaticMath\MathLibrary\MathLibrary.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.72
